@@ -1,12 +1,12 @@
 package controller
 
 import (
-	"github.com/YoungZhou93/crawler/common/crawler_resquest"
-	"github.com/YoungZhou93/crawler/downloader"
-	"github.com/YoungZhou93/crawler/scheduler"
-	"github.com/YoungZhou93/crawler/page_analyzer"
-	"github.com/YoungZhou93/crawler/outputer"
-	"github.com/YoungZhou93/crawler/common/thread_manage"
+	"github.com/YoungChou93/crawler/common/crawler_resquest"
+	"github.com/YoungChou93/crawler/downloader"
+	"github.com/YoungChou93/crawler/scheduler"
+	"github.com/YoungChou93/crawler/page_analyzer"
+	"github.com/YoungChou93/crawler/outputer"
+	"github.com/YoungChou93/crawler/common/thread_manage"
 	"time"
 )
 

@@ -3,7 +3,7 @@ package crawler
 import (
 	"errors"
 	"fmt"
-	"github.com/YoungZhou93/crawler/controller"
+	"github.com/YoungChou93/crawler/controller"
 	"time"
 )
 

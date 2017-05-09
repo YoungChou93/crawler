@@ -1,7 +1,7 @@
 package page_analyzer
 
 import (
-	"github.com/YoungZhou93/crawler/common/page"
+	"github.com/YoungChou93/crawler/common/page"
 )
 
 type PageAnalyzer interface {

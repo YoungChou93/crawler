@@ -2,7 +2,7 @@ package scheduler
 
 import (
 	"container/list"
-	"github.com/YoungZhou93/crawler/common/crawler_resquest"
+	"github.com/YoungChou93/crawler/common/crawler_resquest"
 	"sync"
 )
 

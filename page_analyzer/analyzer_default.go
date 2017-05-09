@@ -3,7 +3,7 @@ package page_analyzer
 import (
 	"fmt"
 	"github.com/PuerkitoBio/goquery"
-	"github.com/YoungZhou93/crawler/common/page"
+	"github.com/YoungChou93/crawler/common/page"
 	"strings"
 )
 

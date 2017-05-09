@@ -3,8 +3,8 @@ package main
 import (
 
 	"time"
-	"github.com/YoungZhou93/crawler/common/crawler_resquest"
-	"github.com/YoungZhou93/crawler/controller"
+	"github.com/YoungChou93/crawler/common/crawler_resquest"
+	"github.com/YoungChou93/crawler/controller"
 )
 
 func main() {

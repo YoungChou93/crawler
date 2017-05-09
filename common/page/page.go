@@ -2,8 +2,7 @@ package page
 
 import (
 	"github.com/PuerkitoBio/goquery"
-	"github.com/YoungZhou93/crawler/common/crawler_resquest"
-	"github.com/hu17889/go_spider/core/common/mlog"
+	"github.com/YoungChou93/crawler/common/crawler_resquest"
 	"net/http"
 	"strings"
 )
@@ -105,7 +104,6 @@ func (this *Page) ResetHtmlParser() *goquery.Document {
 	var err error
 	this.docParser, err = goquery.NewDocumentFromReader(r)
 	if err != nil {
-		mlog.LogInst().LogError(err.Error())
 		panic(err.Error())
 	}
 	return this.docParser

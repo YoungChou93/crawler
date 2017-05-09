@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/YoungZhou93/crawler/cli"
+	"github.com/YoungChou93/crawler/cli"
 )
 
 

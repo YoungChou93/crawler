@@ -3,11 +3,11 @@ package cli
 import (
 	"github.com/urfave/cli"
 	"log"
-	"github.com/YoungZhou93/crawler/controller"
-	"github.com/YoungZhou93/crawler/common/crawler_resquest"
+	"github.com/YoungChou93/crawler/controller"
+	"github.com/YoungChou93/crawler/common/crawler_resquest"
 	"fmt"
 	"time"
-	"github.com/YoungZhou93/crawler/crawler"
+	"github.com/YoungChou93/crawler/crawler"
 )
 var (
 	aCrawler *crawler.Crawler
